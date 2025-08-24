@@ -13,7 +13,8 @@ Insights and recommendations are provided on the following key areas:
 - What actions can reduce the **delta** without harming revenue (e.g., discount discipline, return policy)?
 
 
-An interactive Power BI dashboard PDF that was used to report and explore sales trends can be found here [link](https://1drv.ms/x/c/156b1a163f0566e9/Ef8dDl_J_ixPkhP9A7vcTncBjimCAdEvKnyxEWnr2T1J7w?e=0O7yYu)
+
+An interactive Power BI dashboard PDF that was used to report and explore sales trends can be found here [link](https://drive.google.com/file/d/1gV0mdry1l86gwKYuQKbBmQC3SG8S_CNV/view?usp=drive_link)
 
 Excel [link](https://1drv.ms/x/c/156b1a163f0566e9/Ef8dDl_J_ixPkhP9A7vcTncBjimCAdEvKnyxEWnr2T1J7w?e=0O7yYu)
 
