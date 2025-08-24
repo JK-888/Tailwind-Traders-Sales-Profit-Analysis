@@ -12,9 +12,9 @@ Insights and recommendations are provided on the following key areas:
 - Are **discounts or returns** concentrated in specific segments?
 - What actions can reduce the **delta** without harming revenue (e.g., discount discipline, return policy)?
 
-Excel link
-An interactive Power BI dashboard used to report and explore sales trends can be found here [link].
 
+An interactive Power BI dashboard PDF that was used to report and explore sales trends can be found here [link](https://1drv.ms/x/c/156b1a163f0566e9/Ef8dDl_J_ixPkhP9A7vcTncBjimCAdEvKnyxEWnr2T1J7w?e=0O7yYu)
+Excel[link](https://1drv.ms/x/c/156b1a163f0566e9/Ef8dDl_J_ixPkhP9A7vcTncBjimCAdEvKnyxEWnr2T1J7w?e=0O7yYu)
 # Data Structure & Initial Checks
 
 The companies main database structure as seen below consists of four tables: sales, purchases, countries, exchange rates, sales in usd, and calendar. A description of each table is as follows:
@@ -44,9 +44,6 @@ The companies main database structure as seen below consists of four tables: sal
 - **Customer Behavior**: **Repeat customers contribute 40% of total sales**, reflecting strong loyalty. However, new customers rely heavily on discounts, lowering net revenue.  
 
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
-
-
 
 # Insights Deep Dive
 
@@ -55,15 +52,28 @@ The companies main database structure as seen below consists of four tables: sal
 <img width="683" height="664" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/adc796a3-4d44-4dee-a673-97879630cf60" />
 
 
+
+
+
 - Top-performing product is Modular Sofa Set contributing $93K net revenue.
 - Other strong performers include Motion Sensor Alarm ($72K) and Bamboo Plant Pot ($71K).
 - Lower-end contributors include Quartz Kitchen Counter ($13K) and Modern Pendant Light ($13K).
 
 <img width="729" height="405" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/4ce03b4a-c79b-427d-bec2-9d963b4008ac" />
 
+
+
+
+
+
 - Profit margins stayed high initially but dropped sharply after October 2023, showing near-zero levels toward the end of the year.
 
 <img width="854" height="466" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/b29ac018-82f9-460e-8552-1bdf76c1ddc1" />
+
+
+
+
+
 
 
 - Highest loyalty points redemption: UK (315) and USA (305).
@@ -73,10 +83,19 @@ The companies main database structure as seen below consists of four tables: sal
 <img width="1018" height="470" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/4bfd1580-a0a6-4364-b08c-e957939bfbb8" />
 
 
+
+
+
+
+
 - High quantity sales seen in Floral Wall, Porcelain Decor, and Cement Bins (6 units each).
 - Long-tail distribution of product sales suggests diverse but fragmented demand.
 
 <img width="862" height="404" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/253b58a4-cc1c-461c-9beb-811a8b19403f" />
+
+
+
+
 
 
 - France leads with 63.49% of median sales ($68K).
@@ -84,6 +103,13 @@ The companies main database structure as seen below consists of four tables: sal
 - USA & UAE combined <3%, despite the USA leading in profit margin.
 
 <img width="729" height="405" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/2a4b141c-c1b4-414d-9f53-63cdfea9531c" />
+
+
+
+
+
+
+
 
 # Recommendations 
 
