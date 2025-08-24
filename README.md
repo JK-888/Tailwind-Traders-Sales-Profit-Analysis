@@ -1,4 +1,4 @@
-# Tailwind-Traders-Business-Performance-Analysis
+# Tailwind Traders Sales & Profit Analysis
 
 # Project Background
 
@@ -14,7 +14,10 @@ Insights and recommendations are provided on the following key areas:
 
 
 An interactive Power BI dashboard PDF that was used to report and explore sales trends can be found here [link](https://1drv.ms/x/c/156b1a163f0566e9/Ef8dDl_J_ixPkhP9A7vcTncBjimCAdEvKnyxEWnr2T1J7w?e=0O7yYu)
-Excel[link](https://1drv.ms/x/c/156b1a163f0566e9/Ef8dDl_J_ixPkhP9A7vcTncBjimCAdEvKnyxEWnr2T1J7w?e=0O7yYu)
+
+Excel [link](https://1drv.ms/x/c/156b1a163f0566e9/Ef8dDl_J_ixPkhP9A7vcTncBjimCAdEvKnyxEWnr2T1J7w?e=0O7yYu)
+
+
 # Data Structure & Initial Checks
 
 The companies main database structure as seen below consists of four tables: sales, purchases, countries, exchange rates, sales in usd, and calendar. A description of each table is as follows:
@@ -59,7 +62,14 @@ The companies main database structure as seen below consists of four tables: sal
 - Other strong performers include Motion Sensor Alarm ($72K) and Bamboo Plant Pot ($71K).
 - Lower-end contributors include Quartz Kitchen Counter ($13K) and Modern Pendant Light ($13K).
 
-<img width="729" height="405" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/4ce03b4a-c79b-427d-bec2-9d963b4008ac" />
+  
+
+### Yearly Profit Margin
+
+
+
+
+<img width="729" height="366" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/af90df96-0c46-46d3-907f-accc922fc9bb" />
 
 
 
@@ -102,7 +112,7 @@ The companies main database structure as seen below consists of four tables: sal
 - UK (13.43%) and Australia (20.69%) contribute moderately.
 - USA & UAE combined <3%, despite the USA leading in profit margin.
 
-<img width="729" height="405" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/2a4b141c-c1b4-414d-9f53-63cdfea9531c" />
+
 
 
 
